@@ -1,0 +1,24 @@
+🔧 Step 2: Connect from Power BI
+Open Power BI Desktop
+
+Click Home > Get Data > More
+
+Search and select PostgreSQL database
+
+Enter:
+
+Server: localhost
+
+Database: northwind (or your DB name)
+
+Under Advanced Options, write a SQL query to practice:
+
+sql
+Copy
+Edit
+SELECT * FROM customers
+Click OK
+
+Enter username: postgres and the password you set during install
+
+Hit Connect → Your query result will load!
