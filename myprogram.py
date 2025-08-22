@@ -9,3 +9,8 @@ sum = num1 + num2
 
 # Displaying the result
 print("The sum of", num1, "and", num2, "is:", sum)
+
+# Addding some charater
+a = ["cat"]
+b = ["ball"]
+c = ["dog"]
